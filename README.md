@@ -1,4 +1,4 @@
-# Note: Use [proprietary/chromium-widevine](https://github.com/proprietary/chromium-widevine) instead
+# Use [proprietary/chromium-widevine](https://github.com/proprietary/chromium-widevine) instead
 
 This was a fork of [proprietary/chromium-widevine](https://github.com/proprietary/chromium-widevine) that added support for Ubuntu 20.04 / 20.04.1 LTS.
 
